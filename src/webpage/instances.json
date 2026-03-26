@@ -11,6 +11,6 @@
 			"api": "https://api.chat.ikomorowski.pl/api/v9",
 			"cdn": "https://cdn.chat.ikomorowski.pl",
 			"gateway": "wss://chat.ikomorowski.pl"
-		},
+		}
 	}
 ]
