@@ -5,12 +5,6 @@
 		"url": "https://chat.ikomorowski.pl",
 		"display": true,
 		"language": "pl",
-		"country": "PL",
-		"urls": {
-			"wellknown": "https://chat.ikomorowski.pl",
-			"api": "https://api.chat.ikomorowski.pl/api/v9",
-			"cdn": "https://cdn.chat.ikomorowski.pl",
-			"gateway": "wss://chat.ikomorowski.pl"
-		}
+		"country": "PL"
 	}
 ]
