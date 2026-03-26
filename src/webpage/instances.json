@@ -4,6 +4,8 @@
 		"description": "The official Kaczkolandia instance.",
 		"url": "https://chat.ikomorowski.pl",
 		"display": true,
+		"language": "pl",
+		"country": "PL",
 		"urls": {
 			"wellknown": "https://chat.ikomorowski.pl",
 			"api": "https://api.chat.ikomorowski.pl/api/v9",
