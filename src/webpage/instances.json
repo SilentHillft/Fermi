@@ -2,6 +2,13 @@
 	{
 		"name": "Kaczkolandia",
 		"description": "The official Kaczkolandia instance.",
-		"url": "https://chat.ikomorowski.pl"
+		"url": "https://chat.ikomorowski.pl",
+		"display": true,
+		"urls": {
+			"wellknown": "https://chat.ikomorowski.pl",
+			"api": "https://api.chat.ikomorowski.pl/api/v9",
+			"cdn": "https://cdn.chat.ikomorowski.pl",
+			"gateway": "wss://chat.ikomorowski.pl"
+		},
 	}
 ]
